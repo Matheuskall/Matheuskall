@@ -9,7 +9,8 @@ Eu sou o Matheus Kall, sou um programador Front End, atualmente criando projetos
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo">
 
 E começando a aprender :
--<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"
+<br>
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
 
 
 [![Matheus stats](https://github-readme-stats.vercel.app/api?username=Matheuskall)](https://github.com/anuraghazra/github-readme-stats)
